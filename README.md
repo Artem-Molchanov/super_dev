@@ -1,7 +1,7 @@
 # Огурцов Василий Петрович
 ***
 
-![фото](foto\9.jpg)
+![фото](https://github.com/Artem-Molchanov/super_dev/blob/main/foto/9.jpg)
 ***
 
 ## РЕЗЮМЕ ПРОГРАММИСТА 
