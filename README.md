@@ -1,7 +1,8 @@
 # Огурцов Василий Петрович
 ***
 
-![фото](http://proplay.ru/images/users/gallery/55609/159755_m.jpg)
+![foto](http://proplay.ru/images/users/gallery/55609/159755_m.jpg)
+
 ***
 
 ## РЕЗЮМЕ ПРОГРАММИСТА 
